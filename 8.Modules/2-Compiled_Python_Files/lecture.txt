@@ -1,0 +1,1 @@
+The pycache directory is created by Python 3.2 and later to store compiled Python files. It is safe to delete this directory, as Python will recreate it as needed. However, deleting the pycache directory may cause a slight performance decrease when running Python scripts, as the compiled files will need to be recreated.

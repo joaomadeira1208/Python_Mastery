@@ -1,0 +1,5 @@
+-> python -m pydoc math
+
+-> python -m pydoc -w csv (writes a html file)
+
+-> python -m pydoc -p 1234

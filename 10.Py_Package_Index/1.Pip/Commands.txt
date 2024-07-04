@@ -1,0 +1,5 @@
+# Commands
+# pip list
+# pip install (package)
+# pip install (package)==2.9.0(version) or pip install (package)==2.9.* (latest compatible version with 2.9.0)
+# pip uninstall (package)

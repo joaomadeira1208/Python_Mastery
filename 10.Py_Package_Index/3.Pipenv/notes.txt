@@ -1,0 +1,5 @@
+Watch the class 4, 5, 6 and 7 of the module. Because in all this lectures we use the same virtual environment.
+
+5 is focused on the use of virtual environments using vsCode code runner extension.
+6 is focused on Pipfile
+7 is focused on Managing dependencies

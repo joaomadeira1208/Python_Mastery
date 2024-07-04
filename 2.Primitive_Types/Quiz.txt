@@ -1,0 +1,4 @@
+01) Strings, Numbers (Float, Int, Complex), Boolean
+02) "p" - "ppl"
+03) 1
+04) True
